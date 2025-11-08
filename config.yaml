@@ -1,0 +1,4 @@
+log_dir: folder\
+base_model: gpt-oss:20b # Placeholder
+local_url: http://localhost:11434
+temporary_file_path: folder\file.xlsx
